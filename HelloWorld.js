@@ -1,4 +1,4 @@
 console.log("Hello World");
-var name="Rohit";
+let firstname="Rohit";
 var surname=" Joshi";
-console.log(name+surname)
+console.log(firstname+surname);
