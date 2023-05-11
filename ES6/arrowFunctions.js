@@ -18,6 +18,6 @@ console.log(materials.map((material) => {
 }
 ));
 
-// // ES6 concise
+// ES6 concise
 console.log(materials.map(material => material.length));
 
